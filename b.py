@@ -1,2 +1,1 @@
-print(sdzvx)
-uhu
+\yyy
