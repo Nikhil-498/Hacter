@@ -1,1 +1,1 @@
-print('Niks
+print('Nik
